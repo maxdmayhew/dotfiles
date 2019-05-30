@@ -89,7 +89,10 @@ below is my setup, (Will break without the packages installed above lol)
 	"theme": "gruvbox (Dark) (Soft).sublime-theme"
 }
 
+```
+
 GitGutter.sublime-settings 
+
 ```
 // GitGutter Settings - User
 {
@@ -99,8 +102,6 @@ GitGutter.sublime-settings
 }
 
 ```
- 
-;)
 
 _ _ _
 
