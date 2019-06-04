@@ -40,10 +40,12 @@ alias subl="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl"
 #drush n such
 alias dcc="drush cc all"
 
+alias dcr="drush cr"
+
 export PATH="$PATH:/Applications/DevDesktop/tools"
 
 #composer
-alias composer="/Users/mmayhew6/composer.phar"
+#alias composer="/Users/mmayhew6/composer.phar"
 
 # Extras Below
 
