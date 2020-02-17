@@ -9,6 +9,12 @@ sudo -n sh install.sh
 
 https://help.github.com/articles/connecting-to-github-with-ssh/
 
+# VS Code Setup ?
+
+* Testing emmet
+
+
+
 # Sublime Setup
 #### This has not been tested!
 ###### (thanks to https://gist.github.com/vishaltelangre/5075346)
