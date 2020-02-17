@@ -12,6 +12,7 @@ https://help.github.com/articles/connecting-to-github-with-ssh/
 # VS Code Setup ?
 
 * Testing emmet
+* `div.container*4>button.green-button*4` for example
 
 
 
