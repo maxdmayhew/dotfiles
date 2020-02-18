@@ -10,7 +10,7 @@ sudo -n sh install.sh
 https://help.github.com/articles/connecting-to-github-with-ssh/
 
 # VS Code Setup ?
-* https://burkeholland.gitbook.io/vs-code-can-do-that/exercise-1-1/change-default-settings-view
+* https://burkeholland.gitbook.io/vs-code-can-do-that/
 * Testing emmet
 * `div.container*4>button.green-button*4` for example
 
