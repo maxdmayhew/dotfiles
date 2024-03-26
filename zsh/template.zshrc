@@ -3,6 +3,8 @@
 
 # Path to your oh-my-zsh installation.
 export ZSH=/Users/mmayhew6/.oh-my-zsh
+export PATH="/usr/bin/python3:$PATH"
+export PATH="/usr/bin/pip3:$PATH"
 
 # Set name of the theme to load. Optionally, if you set this to "random"
 # it'll load a random theme each time that oh-my-zsh is loaded.
@@ -14,7 +16,7 @@ ZSH_THEME="robbyrussell"
 COMPLETION_WAITING_DOTS="true"
 
 # The optional three formats: "mm/dd/yyyy"|"dd.mm.yyyy"|"yyyy-mm-dd"
-HIST_STAMPS="mm/dd/yyyy"
+# HIST_STAMPS="mm/dd/yyyy"
 
 # Which plugins would you like to load? (plugins can be found in ~/.oh-my-zsh/plugins/*)
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
@@ -41,6 +43,8 @@ alias subl="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl"
 alias dcc="drush cc all"
 
 alias dcr="drush cr"
+alias st="git status"
+alias neo="neofetch"
 
 export PATH="$PATH:/Applications/DevDesktop/tools"
 
