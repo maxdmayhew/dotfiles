@@ -54,6 +54,9 @@ defaults write com.apple.finder FXEnableExtensionChangeWarning -bool false
 # Dont show indicator lights for open applications in the Dock
 defaults write com.apple.dock show-process-indicators -bool false
 
+# setting for vim emulation on VS Code
+defaults write com.microsoft.VSCode ApplePressAndHoldEnabled -bool false
+
 # Restart dock
 killall Dock
 
