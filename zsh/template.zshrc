@@ -29,6 +29,7 @@ plugins=(
   node
   npm
   gulp
+  safe-paste
 )
 
 source $ZSH/oh-my-zsh.sh
