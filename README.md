@@ -1,5 +1,5 @@
 # dotfiles ⚡️
-Setting up a new computer is time consuming. Learning how to make this a less painful process.
+zsh, yabai, etc.
 
 # install.sh
 #### This has not been tested!
