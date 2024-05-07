@@ -75,6 +75,12 @@ brew install zsh-completions
 #install zsh
 brew install zsh-syntax-highlighting
 
+brew install skhd
+
+# https://github.com/koekeishiya/yabai
+brew install yabai 
+
+# alternative, but never tried https://github.com/ianyh/Amethyst
 
 #possible way to display
 osascript -e 'tell app "System Events" to display dialog "Your computer is ready :)"'
@@ -94,19 +100,23 @@ $SHELL --version
 
 brew install cask
 
-brew cask install slack
+# i <3 cask 
+brew install --cask slack
 
-brew cask install iterm2
+brew install --cask iterm2
 
-brew cask install sublime-text 
+brew install --cask sublime-text 
 
-brew cask install spotify
+brew install --cask spotify
 
-brew cask install sequel-pro
+brew install --cask sequel-pro
 
-brew cask install codekit
+brew install --cask codekit
 
-brew cask install flux
+brew install --cask flux
 
-brew cask install dropbox
+brew install --cask dropbox
 
+# hide things on your taskbar!
+# https://github.com/dwarvesf/hidden
+brew install --cask hiddenbar
