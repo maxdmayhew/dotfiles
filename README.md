@@ -1,6 +1,8 @@
 # dotfiles ⚡️
 zsh, yabai, etc.
 
+this whole thing is kind of a dumpster fire. Someone convince me to fully commit to linux lol
+
 # install.sh
 #### This has not been tested!
 ```bash
